@@ -7,7 +7,7 @@
 
 <h3 align="left">⚡ About Me:</h3>
 
-- 🌱 I’m currently learning **Django** | Exploring **DevOps**.
+- 🌱 Exploring **DevOps**.
 
 - 👯 Open Source Enthusiast.
 
